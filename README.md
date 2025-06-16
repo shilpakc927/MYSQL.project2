@@ -19,6 +19,7 @@ Acts as a linking table that connects students and courses. It also records enro
 🗂️ Data Insertion
 ------------------
 Prepopulated sample records for:
+---------------------------
 Students: 3 sample students,
 Courses: 3 different courses,
 Enrollments: 4 enrollments with assigned grades and dates,
@@ -45,3 +46,4 @@ Nested queries:
 Courses with enrollments above average,
 Students who got an 'A' in all their courses,
 Students enrolled in more than one course by the same instructor.
+----------------------------------------------------------------
