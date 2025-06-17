@@ -61,6 +61,7 @@ The Online Course Enrollment SQL Project simulates a basic course management sys
 4. Insert the provided sample data into the tables.
 5. Run the SQL queries to analyze enrollments, course popularity, student performance, and more.
 
+---
 ## 📁 Files Included
 - `onlinecourse Enrollment.sql` – sql file with queries and raw data
   
