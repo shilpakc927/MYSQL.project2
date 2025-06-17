@@ -3,6 +3,10 @@
 This project models an **Online Course Enrollment System** using SQL. It simulates how students enroll in different courses, their grades, and course-related data. It helps understand fundamental database design, relational integrity, and SQL querying through a real-world scenario.
 
 ---
+## Project Overview
+
+The Online Course Enrollment SQL Project simulates a basic course management system using a relational database. It includes three core entities: Students, Courses, and Enrollments. This project demonstrates how to manage course registrations, analyze enrollment trends, and track student performance using SQL queries. It is ideal for practicing SQL joins, aggregations, subqueries, and real-world database design.
+
 
 ## 🛠️ Technologies Used
 
