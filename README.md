@@ -57,4 +57,13 @@ This project models an **Online Course Enrollment System** using SQL. It simulat
 4. Insert the provided sample data into the tables.
 5. Run the SQL queries to analyze enrollments, course popularity, student performance, and more.
 
+## 📁 Files Included
+- `onlinecourse Enrollment.sql` – sql file with queries and raw data
+  
+---
+> **Developed by**: [shilpa k c]  
+> **LinkedIn**: [https://www.linkedin.com/in/shilpa-kc]  
+> **Project Type**:  Academic
+
+
 
